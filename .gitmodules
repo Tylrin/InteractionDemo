@@ -1,0 +1,3 @@
+[submodule "Plugins/Systems/Interaction"]
+	path = Plugins/Systems/Interaction
+	url = https://github.com/Tylrin/Interaction.git
