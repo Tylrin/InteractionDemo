@@ -10,7 +10,7 @@ public class InteractionSystem : ModuleRules
 
 		PublicIncludePaths.AddRange(
 		new string[] {
-				"InteractionSystem"
+				"InteractionDemo"
 			}
 		);
 
