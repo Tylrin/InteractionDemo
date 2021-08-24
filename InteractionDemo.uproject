@@ -58,6 +58,7 @@
 		"LinuxAArch64NoEditor",
 		"MacNoEditor",
 		"WindowsNoEditor",
-		"AllDesktop"
+		"AllDesktop",
+		"Windows"
 	]
 }
